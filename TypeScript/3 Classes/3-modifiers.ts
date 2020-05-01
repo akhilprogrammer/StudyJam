@@ -6,7 +6,7 @@
 
     /*
 
-        public - members are visible to outside of class and subclasses. as default all members are public
+        public - members are visible to both inside and outside of class and subclasses. as default all members are public
 
     */
 
