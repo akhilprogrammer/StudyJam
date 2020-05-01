@@ -1,7 +1,7 @@
 
 // common class structure
 
-    // instance variables , constructor, methods are called members of a class
+    // instance variables , constructor and methods are called members of a class
 
     class Person {
 
