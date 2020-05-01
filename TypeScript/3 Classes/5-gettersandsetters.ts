@@ -33,8 +33,8 @@ class Person {
 }
 
 
-let employee: Person = new Person();
-employee.name = "Bob Smith";
-if (employee.name) {
-    console.log(employee.name);
+let p: Person = new Person();
+p.name = "Bob Smith";
+if(p.name) {
+    console.log(p.name);
 }
