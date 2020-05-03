@@ -14,5 +14,5 @@ let z = Position.z;
 
 
 
-// we can acess static variables without creating new Instance of a class
+// we can access static members without creating new Instance of a class
 // static members are visible on the class itself rather than on the instances
