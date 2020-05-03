@@ -1,6 +1,6 @@
 
 
-// Object - key , value combination, vales are associated with keys
+// Object - key , value combination, values are associated with keys
 
 let contacts: object = {
     'name': 'akhil',
