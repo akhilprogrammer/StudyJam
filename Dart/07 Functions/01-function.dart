@@ -1,10 +1,7 @@
 
 // function are block of statements,  we can call that block when we want
-
 // a function have 4 parts - type, function name, parameter section, function body 
-
 // a function execute only when we call that function
-
 // function structure
 
   /*
