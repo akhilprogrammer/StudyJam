@@ -1,5 +1,4 @@
 
-// steps of do - while loop execution
 
 // do while loop structure
 
