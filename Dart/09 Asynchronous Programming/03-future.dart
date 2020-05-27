@@ -24,9 +24,9 @@
 
   // so a future has 3 states
 
-      1) uncompleted state      (it indicates that asynchronous function execution not completed yet) 
-      2) completed with a data  (it indicates function execution completed , no problem occured)
-      3) completed with a error (it indicates function execution completed , but error occured)          
+      1) uncompleted state      (it indicates that asynchronous operation performed by the function not completed yet) 
+      2) completed with a data  (it indicates asynchronous operation performed by the function succesed)
+      3) completed with a error (it indicates  asynchronous operation performed by the function failed)          
 */
 
 // here we created a asynchronous function that will return a Map in future
