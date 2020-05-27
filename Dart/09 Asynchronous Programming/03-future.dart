@@ -1,6 +1,7 @@
 /*
-  // Future is a object representing a delayed computation
-     Future is used to represent a 'value' or 'error', that will be available at some time in the future
+  // A Future represents the result of an asynchronous operation
+     Result may a 'value' or an 'error', that will be available at some time in the future
+     
      that means when execution of a asynchrnous function complete , then
 
         if all things are going well - we will get a value that we expect
