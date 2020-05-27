@@ -2,7 +2,9 @@
 
 void main() {
 
-  // Set type  - represent collection of unique elements. ie, an element can exist only once in a Set
+  // Set type  - represent an unordered collection of unique items.
+  // Because a set is unordered, you can’t get a set’s items by index (position).
+  // An elemnt of a set can occur only once. it cant repeat
 
     Set numbers = {1, 2, 3, 4, 5};
     Set friends = {'John', 'Michel', 'Smith'};
