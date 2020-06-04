@@ -22,6 +22,7 @@ void main() {
       print(profile);             // print whole map
       print(profile['name']);     //print value of name
       print(profile['contact']);  // print value of contact
+      print(profile['contact']['mobile']);  // print value of mobile
 
       profile['dob'] = '01-01-2000'; // adding a data into map . same way we can update existing data
       print(profile);
