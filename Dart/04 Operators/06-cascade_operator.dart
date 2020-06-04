@@ -6,7 +6,7 @@ void main() {
 
   // we create a object of class Hello
 
-  var hello = Hello();
+  Hello hello = new Hello();
 
   // now by using cascade operator we can perform multiple operation on  object hello
 
