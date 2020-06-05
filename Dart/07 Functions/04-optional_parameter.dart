@@ -10,9 +10,11 @@
     // 1 - named parameters
     // 2 - positional parameters
 
-void main() {
-  
-}
+
+//-----------------------------------------------------------------------------
+// we will cover each concept deeply on next lessons. this is just a outline
+//-----------------------------------------------------------------------------
+
 
 // we can create named parameters by wrapping parameters in curly bracket {}
 
